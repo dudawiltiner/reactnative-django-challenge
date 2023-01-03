@@ -152,7 +152,7 @@ Após cada um dos passos a seguir, haverá um exemplo de como cada página pode 
 
 Logo abaixo eu disponibilizo um vídeo sobre o uso do App já integrado com a API, para te orientar a como testa-la localmente.
 
-
+https://youtu.be/tTvfRut4Tog
 
 ### Documentação da API
 
