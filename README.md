@@ -152,7 +152,7 @@ Após cada um dos passos a seguir, haverá um exemplo de como cada página pode 
 
 Logo abaixo eu disponibilizo um vídeo sobre o uso do App já integrado com a API, para te orientar a como testa-la localmente.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tTvfRut4Tog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tTvfRut4Tog&t=66s/0.jpg)](https://www.youtube.com/watch?v=tTvfRut4Tog&t=66s)
 
 ### Documentação da API
 
