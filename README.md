@@ -3,7 +3,7 @@
 
 ## Boas vindas ao repositório do Desafio de Estudo - Case criado pela Eduarda Wiltiner
 
-Esse desafio foi criado por mim com o objetivo de aplicar um método de estudo que chamado de Challenge First, que basicamente serve para criar uma familiaridade com alguns stacks em pouco tempo e um entendimento raso sobre elas. As habilidades contempladas foram aquelas necessáiras para desenvolver um projeto **Full Stack**. O resultado final é uma plataforma para **registro de vagas para desenvolvedores** pelos usuários e por um web scraping do site GetVagas para popular de forma automática o banco de dados **SQL** através de uma **API**.
+Esse desafio foi criado por mim com o objetivo de aplicar um método de estudo que eu chamo de Challenge First, que basicamente serve para criar uma familiaridade com algumas stacks novas em pouco tempo e um entendimento raso sobre elas, o objetivo é de desenvolver o gosto pela tecnologia, avaliando o que o conhecimento sobre como ela funciona pode te proporcionar e aumentar o pricipal combustível de estudo do ser humano, a curiosidade. As habilidades contempladas foram aquelas necessárias para desenvolver um projeto **Full Stack**. O resultado final é uma plataforma para **registro de vagas para desenvolvedores** pelos usuários e por um web scraping do site GetVagas para popular de forma automática o banco de dados **SQL** através de uma **API**.
 
 ---
 
