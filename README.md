@@ -148,7 +148,7 @@ Como o React Native não aceita API consideradas não seguras, ex: "localhost:30
 
 Após cada um dos passos a seguir, haverá um exemplo de como cada página pode ser usada, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _eduardawiltiner@gmail.com_.
 
-###  Usando o App RockerJobs
+###  Usando o App RocketJobs
 
 Logo abaixo eu disponibilizo um vídeo sobre o uso do App já integrado com a API, para te orientar a como testa-la localmente.
 
