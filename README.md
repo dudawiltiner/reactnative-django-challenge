@@ -152,13 +152,10 @@ Após cada um dos passos a seguir, haverá um exemplo de como cada página pode 
 
 Logo abaixo eu disponibilizo um vídeo sobre o uso do App já integrado com a API, para te orientar a como testa-la localmente.
 
-https://youtu.be/tTvfRut4Tog
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tTvfRut4Tog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Documentação da API
 
-Com o GraphQl temos como testar e olhar a documentação *playground* da ferramenta. Isso facilita com os testes e na tipagem acessando o seguinte [link](http://localhost:3001/graphql).
+Com o Django Rest Framework temos como testar e olhar a documentação *playground* da ferramenta. Isso facilita com os testes acessando o seguinte [link](http://localhost:3001/api/jobs).
 
-<div align="center">
-  <img src="./gifs/playground.gif" margin="10px" width="700" alt="erro 404"/>
-</div>
 
