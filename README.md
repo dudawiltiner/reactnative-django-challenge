@@ -43,19 +43,19 @@ Abaixo estão os requisitos técnicos e as funcionalidades que a solução deve 
 A solução do desafio foi separarada em duas partes: front-end e back-end, cada em sua respectiva pasta com as seguintes tecnologias principais:
 
 ### Front-End
-[React Native](https://reactjs.org/)<br>
+[React Native](https://reactnative.dev/)<br>
 [Typescript](https://www.typescriptlang.org/)<br>
 [ReactHooksForms](https://react-hook-form.com/)<br>
-[Native Base](https://mui.com/)<br>
-[Axios](https://jotai.org/)<br>
+[Native Base](https://nativebase.io/)<br>
+[Axios](https://axios-http.com/)<br>
 [ReactQuery](https://react-query-v3.tanstack.com/)<br>
 
 ### Back-End
-[Python](https://nestjs.com/)<br>
-[Django](https://nodejs.org/)<br>
-[Parsel](https://jwt.io/)<br>
-[Requests](https://github.com/typestack/class-validator)<br>
-[Pyngrok](https://graphql.org/)<br>
+[Python](https://www.python.org/)<br>
+[Django](https://www.djangoproject.com)<br>
+[Parsel](https://parsel.readthedocs.io/en/latest/usage.html)<br>
+[Requests](https://requests.readthedocs.io/en/latest/)<br>
+[Pyngrok](https://pyngrok.readthedocs.io/en/latest/)<br>
 
 ### Banco de Dados
 [PostgreSQL](https://www.postgresql.org/)<br>
